@@ -1,0 +1,20 @@
+.bob {
+    background: #949494;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+}
+
+.copy_right_footer{
+    position:sticky; 
+    color: cornflowerblue;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color:cornflowerblue;
+}
